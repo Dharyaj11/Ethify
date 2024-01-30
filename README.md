@@ -1,4 +1,5 @@
-![logonew](https://github.com/Dharyaj11/Ethify/assets/119648064/453cd1a0-7ba0-4374-8855-089e598627a5)
+![logo](https://github.com/Dharyaj11/Ethify/assets/119648064/f3f132a8-a116-4eee-8895-4699a6135847)
+
 # Ethify
 “Revolutionizing E-Commerce transparency through the use of Advanced ML-powered 
 Dark patterns detecting models”
