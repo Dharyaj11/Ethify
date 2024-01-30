@@ -25,6 +25,13 @@ Dark patterns, manipulative UI designs on websites, exploit human psychology for
   ![Untitled-2024-01-25-2001-font](https://github.com/Dharyaj11/Ethify/assets/119648064/7c81390c-35bd-4ef5-bda2-84881faf3848)
 
 
+  - When a user clicks the "ANALYZE SITE" button in the popup, the popup.js script sends a message to the scrape.js to initiate the analysis.
+  - The content script then scrapes the DOM elements on the current web page, filters and sends relevant text data to the Flask API endpoint (api/app.py) using a POST request.
+  - The Flask API processes the input using machine learning models and returns the classification results.
+  - The content script receives the results, highlights elements with dark patterns, and updates the dark pattern count.
+  - The updated count is then sent back to the popup script, which updates the displayed count in the extension popup.
+
+
 ### Project file structure
   ![project_structure_updated](https://github.com/Dharyaj11/Ethify/assets/119648064/646cfb67-34ec-4782-b701-5c83a10f6a56)
   
