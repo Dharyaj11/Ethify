@@ -1,0 +1,35 @@
+{
+    "manifest_version": 3,
+    "name": "Ethify",
+    "version": "0.1",
+    "description": "Revolutionizing E-Commerce transparency through the use of Advanced ML-powered Dark patterns detecting models",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    },
+    "icons":{
+        "128":"logo.png"
+    },
+    "content_scripts": [{
+        "matches": [
+            "<all_urls>"
+        ],
+        "js": [
+            "js/common.js",
+            "js/block_segment.js",
+            "js/scraping.js"
+        ],
+        "css": [
+            "css/ethify.css"
+        ],
+        "run_at": "document_end"
+    }],
+    "permissions": [
+        "activeTab",
+        "tabs",
+        "storage"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ]
+}

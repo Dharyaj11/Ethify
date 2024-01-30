@@ -1,0 +1,183 @@
+html, body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    margin: 0;
+    min-height: 180;
+    width: 296px;
+    color: #FFFFFF;
+    background-color: #111111;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 500;
+    margin: 0;
+    color: #ff4655;
+}
+
+p {
+    font-size: 14px;
+}
+
+button {
+    color: #faf8f8;
+    background-color: #111111;
+    border: 2px solid rgb(249, 245, 248);
+    border-radius: 0px;
+    padding: 18px 36px;
+    display: inline-block;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 14px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    box-shadow: inset 0 0 0 0 #ff4655;
+    -webkit-transition: ease-out 0.4s;
+    -moz-transition: ease-out 0.4s;
+    transition: ease-out 0.4s;
+    width: 261px;
+    
+}
+button:hover {
+    box-shadow: inset 400px 0 0 0 #ff4655;
+  }
+
+button:active {
+    background-color: #111111;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: #ff4655;
+    text-decoration: none;
+}
+
+.modal-header {
+    align-items: center;
+    text-align: center;
+    box-shadow: 0px 3px 2px 1px #111111;
+    background-color: #111111;
+    padding: 3px;
+}
+
+.modal-content {
+    padding: 0px 16px 0px 16px;
+}
+
+.modal-footer {
+    text-align: center;
+    font-size: 12px;
+    padding: 3px 3px 8px 3px;
+}
+.modal-footer a {
+    color: #D8D8D8;
+    margin-right: 20px; 
+    text-decoration: underline; 
+    /* display: inline-block; 
+     */
+     display: flex; /* Use flexbox for layout */
+     justify-content: space-between; /* Distribute items evenly */
+     align-items: center; /* Vertically center items */
+}
+
+.modal-footer a:hover {
+    color: #ff4655; /* Change color on hover */
+}
+#cook{
+    /* background-color: #ff4655; */
+    text-align: center;
+    padding-left: 90px;
+    align-items: center;
+    background-color: #ff4655;
+
+}
+#cook a:hover {
+    color: #111111; /* Change color on hover */
+}
+.footer-links {
+    text-align: center;
+    margin-left: 20px; /* Add some spacing between select and links */
+}
+
+.footer-links .link {
+    color: #D8D8D8;
+    text-decoration: underline;
+    display: inline-block;
+}
+
+.footer-links .link:hover {
+    color: #ff4655;
+}
+
+.container {
+    background-color: #111111;
+    margin: 8px 0px 8px 0px;
+    padding: 6px 14px 6px 14px;
+    border-radius: 3px;
+    box-shadow: 0px 3px 2px 1px #111111;
+}
+
+.container p {
+    margin: 0px;
+}
+
+.label {
+    color: #B8B8B8;
+    margin: 0px;
+    font-weight: 150;
+}
+
+.number, .total-number {
+    color: #FFFFFF;
+    font-size: 32px;
+}
+
+.modal-footer a {
+    color: #D8D8D8;
+}
+
+/* .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.modal-footer {
+    text-align: left;
+    font-size: 12px;
+    padding: 3px 3px 8px 3px;
+}
+
+.modal-footer a {
+    color: #D8D8D8;
+    text-decoration: underline;
+}
+
+.modal-footer a:hover {
+    color: #ff4655;
+}
+
+.container {
+    background-color: #111111;
+    margin: 8px 0px 8px 0px;
+    padding: 6px 14px 6px 14px;
+    border-radius: 3px;
+    box-shadow: 0px 3px 2px 1px #111111;
+}
+
+.container p {
+    margin: 0px;
+}
+
+.label {
+    color: #B8B8B8;
+    margin: 0px;
+    font-weight: 150;
+}
+
+.number, .total-number {
+    color: #FFFFFF;
+    font-size: 32px;
+}
+
+.modal-footer a {
+    color: #D8D8D8;
+} */
