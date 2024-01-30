@@ -27,7 +27,7 @@ Dark patterns, manipulative UI designs on websites, exploit human psychology for
   ![Untitled-2024-01-29-2355](https://github.com/Dharyaj11/Ethify/assets/119648064/8bd34140-c2c0-4a24-8486-5c4dd44bd622)
 
 ## working
-<img width="900" alt="image_2024-01-30_13-18-26" src="https://github.com/Dharyaj11/Ethify/assets/119648064/c102b5b5-7500-4b7b-af9c-8e7371a488e9">
+<img width="900" alt="image_2024-01-30_13-18-26" src="https://github.com/Dharyaj11/Ethify/assets/119648064/ba4bc3d8-1bde-4df4-979d-52552269ee28">
 
 https://github.com/Dharyaj11/Ethify/assets/119648064/dc04a943-4661-45a4-a17a-8e4469ae8451
 
