@@ -44,6 +44,8 @@ Merged data from two primary sources: a research paper [Dark Patterns at Scale](
 
 
 ### Cookies Model
+- github repo- https://github.com/Dharyaj11/Ethify_cookie_feature
+
 A web scraper fetches text data of cookies using BeautifulSoup(). NLP is applied to classify cookie popups as dark patterns. Decision Tree or Random Forest is used based on accuracy. The algorithm uses columns 5, 11, and 14, giving more weight to 5 and 11.
 
 ## Results
