@@ -1,4 +1,4 @@
-![logo](https://github.com/Dharyaj11/Ethify/assets/119648064/f3f132a8-a116-4eee-8895-4699a6135847)
+![logonew](https://github.com/Dharyaj11/Ethify/assets/119648064/e5ed3776-a2ef-4c05-beea-bca22971feb1)
 
 # Ethify
 “Revolutionizing E-Commerce transparency through the use of Advanced ML-powered 
