@@ -2,7 +2,16 @@
 
 # Ethify
 “Revolutionizing E-Commerce transparency through the use of Advanced ML-powered 
-Dark patterns detecting models”
+Dark patterns detecting models” 
+
+
+This is our project for the 2024 DPBH Hackathon 
+
+Team Name "DESI BOYS"
+- Aaditya Sharma
+- Dharya Jasuja
+- Dheerain Thakur
+- Darren Chahal
 
 
 # Ethify Browser Extension
