@@ -4,7 +4,7 @@
 “Revolutionizing E-Commerce transparency through the use of Advanced ML-powered 
 Dark patterns detecting models” 
 # Deployed Link 
-https://dharyaj11.github.io/ethify_landing_page/
+https://ethify-landing-page.vercel.app/
 
 This is our project for the 2024 DPBH Hackathon 
 
